@@ -1,0 +1,1 @@
+# Deploy ec2_instance in different AWS regions
